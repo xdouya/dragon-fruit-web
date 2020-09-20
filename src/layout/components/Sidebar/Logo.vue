@@ -25,7 +25,7 @@ export default {
   },
   data() {
     return {
-      title: 'watermelon-后台管理',
+      title: 'ELADMIN-后台管理',
       logo: Logo
     }
   }
